@@ -1,2 +1,3 @@
 # learning-git
-for learning
+me
+theeraput
